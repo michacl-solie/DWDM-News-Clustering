@@ -1,0 +1,27 @@
+# 数据文件（大文件不提交）
+data/THUCNews*/
+data/THUCNews*.zip
+data/*.npy
+data/*.npz
+data/*.pkl
+data/processed_news.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+
+# 临时文件
+*.tmp
+*.log
