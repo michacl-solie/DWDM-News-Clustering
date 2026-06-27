@@ -1,0 +1,28 @@
+{
+  "K-Means": {
+    "Silhouette": 0.07710408902189787,
+    "CH_Index": 1868.3357124528652,
+    "Davies_Bouldin": 2.897009915745181,
+    "ARI": 0.3526402728254591,
+    "NMI": 0.5773099485609691,
+    "N_Clusters": 14,
+    "Inertia": 13207.874291460525
+  },
+  "Agglomerative": {
+    "Silhouette": 0.07337279150661824,
+    "CH_Index": 513.0384911947998,
+    "Davies_Bouldin": 2.8834528489637443,
+    "ARI": 0.39619572416177345,
+    "NMI": 0.6095959393819519,
+    "N_Clusters": 14
+  },
+  "DBSCAN": {
+    "Silhouette": null,
+    "CH_Index": null,
+    "Davies_Bouldin": null,
+    "ARI": 1.5531328693242287e-06,
+    "NMI": 0.00020364300340515294,
+    "N_Clusters": 1,
+    "Noise_Points": 1
+  }
+}
